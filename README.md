@@ -8,10 +8,8 @@
 
 I'm currently learning software development and exploring how to turn ideas into useful applications.
 
-- 💻 Currently learning Python, JavaScript, Flutter & Dart
-- 🌐 Exploring web development
-- 🚀 Building projects to improve my skills
-- ☕ Fun fact: I enjoy turning ideas into code
+- Currently learning Python, JavaScript, Flutter & Dart
+- Exploring my life, like touch some grass bruh
 
 
 ## Tech Stack
