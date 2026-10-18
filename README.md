@@ -1,7 +1,7 @@
 # Hey, I'm Kiryu! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%28%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81%29+%28%E2%94%AC%E2%94%AC%EF%B9%8F%E2%94%AC%E2%94%AC%29+%C2%AC_%C2%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%28%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81%29+%28%E2%94%AC%E2%94%AC%EF%B9%8F%E2%94%AC%E2%94%AC%29+%C2%AC_%C2%AC" alt="Typing SVG" />
 </p>
 
 🎓 **Information Technology Student** | 🌱 **Aspiring Developer**
