@@ -15,7 +15,7 @@ I'm currently learning software development and exploring how to turn ideas into
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,python,myqsql,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,python,mysql,git,github,vscode" alt="Tech Stack" />
 </p>
 
 
